@@ -8,7 +8,8 @@ Specific R libraries needed include:
   tidyverse  
 
 **Screenshots:**  
-
+![Ad_Revenue](https://user-images.githubusercontent.com/91223695/142338037-19c19398-8827-46ff-aaf4-d697c376fbdf.JPG)  
+This shows Google's advertising revenue in US Billion Dollars by year, from 2001-2020.
 
 **Contributing:**  
 Contributions and issues always welcome! If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Thanks!!  
