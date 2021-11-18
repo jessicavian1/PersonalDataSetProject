@@ -24,5 +24,6 @@ Open a Pull Request
 Jessica Vian - jessica.vian@wsu.edu  
 Project Link- https://github.com/jessicavian1/PersonalDataSetProject  
 
-**Acknowledgments:**  
-It's true that no person is an island, and doubly so when you're learning Data Science. Throughout this project I've relied on a few key resources I'd like to highlight here:  
+**References:**  
+ During the process of this project, I gathered original data from the following sources:  
+ https://www.statista.com/statistics/266249/advertising-revenue-of-google/  
