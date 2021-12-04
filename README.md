@@ -18,6 +18,7 @@ From this point I popped the data into R to perform some basic visulazations, li
   As you can see, there is a clear distinction of spending behavior across age groups. I wanted to look at this moe closely, so I chose to make a boxplot of a specific column. Since many of the lower age groups have a significant amount of outliers, I chose to look at the 65+ group. This is what I found.  
 ![AdSpends for 65+](https://github.com/jessicavian1/PersonalDataSetProject/blob/main/Ad%20Spends%20for%2065%2B.JPG)  
 
+Obviously there is more to consider when forecasting whether a customer will click on an ad than just their age, but I hope that this basic foundation will help me as I continue to grow my data skillset and apply more complicated tasks to data similar to this.  
 
 **Contributing:**  
 Contributions and issues always welcome! If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Thanks!!  
