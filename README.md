@@ -12,7 +12,7 @@ Specific R libraries needed include:
 This shows Google's advertising revenue in US Billion Dollars by year, from 2001-2020. As you can plainly see, Google's growth in this area is nothing short of staggering, and they have a real motivation for good data and forecasting for who will click- and ultimately spend money- on ads.  
 
 Looking more deeply at some specific PPC marketing data I found on Kaggle (specific source list referenced below), I cleaned the data by first eliminating all Facebook campaigns from the dataset, then cleaned out all 'unknown' age values.  Finally I eliminated some of the columns that weren't needed for my test- such as date, campaign type, product, phase, and subchannel. What I was left with can be found here: https://github.com/jessicavian1/PersonalDataSetProject/blob/main/advertising.campaign.analytics.csv  
-From this point I popped the data into R to perform some basic visulazations, like this one, which shows you how PPC ad spending is broken down across age groups.  
+From this point I popped the data into R to perform some basic visualizations, like this one, which shows you how PPC ad spending is broken down across age groups.  
 ![Age vs Ad Spend](https://github.com/jessicavian1/PersonalDataSetProject/blob/main/Age%20vs%20Ad%20Spend.JPG)  
   
   As you can see, there is a clear distinction of spending behavior across age groups. I wanted to look at this moe closely, so I chose to make a boxplot of a specific column. Since many of the lower age groups have a significant amount of outliers, I chose to look at the 65+ group. This is what I found.  
