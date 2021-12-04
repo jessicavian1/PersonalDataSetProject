@@ -16,7 +16,7 @@ From this point I popped the data into R to perform some basic visulazations, li
 ![Age vs Ad Spend](https://github.com/jessicavian1/PersonalDataSetProject/blob/main/Age%20vs%20Ad%20Spend.JPG)  
   
   As you can see, there is a clear distinction of spending behavior across age groups. I wanted to look at this moe closely, so I chose to make a boxplot of a specific column. Since many of the lower age groups have a significant amount of outliers, I chose to look at the 65+ group. This is what I found.  
-  ![[AdSpends for 65+] (https://github.com/jessicavian1/PersonalDataSetProject/blob/main/Ad%20Spends%20for%2065%2B.JPG)  
+![[AdSpends for 65+](https://github.com/jessicavian1/PersonalDataSetProject/blob/main/Ad%20Spends%20for%2065%2B.JPG)  
 
 
 **Contributing:**  
