@@ -27,3 +27,4 @@ Project Link- https://github.com/jessicavian1/PersonalDataSetProject
 **References:**  
  During the process of this project, I gathered original data from the following sources:  
  https://www.statista.com/statistics/266249/advertising-revenue-of-google/  
+ https://www.kaggle.com/avinashlalith/merkle-sokrati-advertising-campaign  
